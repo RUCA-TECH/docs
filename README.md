@@ -4,6 +4,6 @@ Welcome to the [ruca.tech](https://ruca.tech) Developer Zone, Know Your Customer
 #INTEGRATE
 
 ruca.tech provides multiple integration methods for analytics
-* [JavaScript Tracking Client](Javscript.md)
+* [JavaScript Tracking Client](JavaScript.md)
 * [Cordova/PhoneGap Tracking Client](cordova.md)
-* [Single-Page Application Tracking](Javscript.md)
+* [Single-Page Application Tracking](JavaScript.md#event-tracking-for-analytics)
