@@ -1,6 +1,5 @@
-# ruca.tech Tracking SDK For desktop and Mobile Web
-
-
+# ruca.tech JavaScript tracking client
+You can use the [ruca.tech](ruca.tech) JavaScript tracking client to track any application that supports JavaScript. 
 
 ## Minimal Integration
 
@@ -15,7 +14,7 @@
           oda.type = 'text/javascript';
           oda.async = true;
           oda.defer = true;
-          oda.src = 'https://cdn.ruca.tech/rta.js';
+		  oda.src = '//cdn.ruca.tech/rta.js';
           var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(oda, s);
         })();
     </script>
