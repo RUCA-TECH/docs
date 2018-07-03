@@ -1,7 +1,7 @@
-# docs
+# Developer Zone
 Welcome to the [ruca.tech](https://ruca.tech) Developer Zone, Know Your Customer's Mind. A real time data analytics platform to know your customer.
 
-#INTEGRATE
+# INTEGRATE
 
 ruca.tech provides multiple integration methods for analytics
 * [JavaScript Tracking Client](JavaScript.md)
